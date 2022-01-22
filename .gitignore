@@ -21,9 +21,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-/.idea/vcs.xml
-/.idea/runConfigurations.xml
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/react-feedback-app.iml
+
